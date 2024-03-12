@@ -1,11 +1,9 @@
 ---
-title: "Low-Latency_Scheduling_Approach_for_Dependent_Tasks_in_MEC-Enabled_5G_Vehicular_Networks"
+title: "Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-30
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://academicpages.github.io/files/Low-Latency_Scheduling_Approach_for_Dependent_Tasks_in_MEC-Enabled_5G_Vehicular_Networks.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
