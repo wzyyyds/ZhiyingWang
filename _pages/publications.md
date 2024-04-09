@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: 
 author_profile: true
 ---
 
@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Published Article
 
-- **[Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks.]('http://academicpages.github.io/files/paper1.pdf')**
+- **[Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks.](files/paper1.pdf)**
 
   *Published in IEEE Internet of Things Journal, 2024.*
 
