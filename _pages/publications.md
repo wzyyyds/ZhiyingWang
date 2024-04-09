@@ -9,18 +9,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Published Article
 
-- Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks.
+- **Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks.**
 
-*Published in IEEE Internet of Things Journal, 2024.*
+  *Published in IEEE Internet of Things Journal, 2024.*
 
-URL:[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628)
+  URL:[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628)
 
 ## Under Review
 
-- Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles.
+- **Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles.**
 
-*Under review at IEEE Transactions on Intelligent Transportation Systems.*
+  *Under review at IEEE Transactions on Intelligent Transportation Systems.*
 
-- Reinforcement Q-Learning Enabled Energyefficient Service Function Chain Provisioning in Multi-Domain Networks.
+- **Reinforcement Q-Learning Enabled Energyefficient Service Function Chain Provisioning in Multi-Domain Networks.**
 
-*Under review at Peer-to-Peer Networking and Applications.*
+  *Under review at Peer-to-Peer Networking and Applications.*
