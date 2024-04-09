@@ -7,4 +7,7 @@ main:
     url: /contact/
     
   - title: "CV"
-    url: 'http://academicpages.github.io/files/paper1.pdf'
+    url: 'http://academicpages.github.io/files/CV.pdf'
+
+  - title: "Hobby"
+    url: /hobby/
