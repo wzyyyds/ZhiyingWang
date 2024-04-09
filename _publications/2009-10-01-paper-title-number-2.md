@@ -1,10 +1,8 @@
 ---
 title: "Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles"
-collection: Under Review
-date: 2023-08-30
-venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+collection: publications
+venue: 'Under Review at IEEE Transactions on Intelligent Transportation Systems'  # 修改地点信息以显示当前状态
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'  # 如果论文不可公开访问，可以注释掉或删除此行
+# citation: 'Your Name, You. (2023). "Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks." Under Review.'  # 更新引用信息以反映当前状态
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
