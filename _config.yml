@@ -47,7 +47,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -214,6 +213,9 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
+  hobby:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -279,6 +281,15 @@ defaults:
       layout: contact
       author_profile: true
       share: true
+  # _hobby
+  - scope:
+      path: ""
+      type: hobby
+    values:
+      layout: hobby
+      author_profile: true
+      share: true
+
 
 
 # Sass/SCSS
