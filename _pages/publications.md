@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   *Published in IEEE Internet of Things Journal, 2024.*
 
-  URL:[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628)
+  URL: [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628)
 
 ## Under Review
 
