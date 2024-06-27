@@ -19,7 +19,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   *Published in IEEE Transactions on Intelligent Transportation Systems(Early Access)*
 
-  URL:[https://ieeexplore.ieee.org/document/10571777](https://ieeexplore.ieee.org/document/10571777)
+  URL: [https://ieeexplore.ieee.org/document/10571777](https://ieeexplore.ieee.org/document/10571777)
 
 ## Under Review
 
