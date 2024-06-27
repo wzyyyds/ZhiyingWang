@@ -15,12 +15,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   URL: [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628)
 
-- **[Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles.]
-(https://wzyyyds.github.io/ZhiyingWang/files/paper2.pdf)**
+- **[Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles.](https://wzyyyds.github.io/ZhiyingWang/files/paper2.pdf)**
 
   *Published in IEEE Transactions on Intelligent Transportation Systems(Early Access)*
- URL:[https://ieeexplore.ieee.org/document/10571777]
-(https://ieeexplore.ieee.org/document/10571777)
+
+  URL:[https://ieeexplore.ieee.org/document/10571777](https://ieeexplore.ieee.org/document/10571777)
 
 ## Under Review
 
