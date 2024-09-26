@@ -23,11 +23,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Under Review
 
+- **Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation.**
+
+  *Under review at IEEE Transactions on Intelligent Transportation Systems.*
 
 - **Reinforcement Q-Learning Enabled Energy efficient Service Function Chain Provisioning in Multi-Domain Networks.**
 
   *Under review at Peer-to-Peer Networking and Applications.*
-
-- **Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation.**
-
-  *Under review at IEEE Transactions on Intelligent Transportation Systems.*
