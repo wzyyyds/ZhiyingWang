@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Under Review
 
-- **Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation.**
+- **[Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation.](https://arxiv.org/pdf/2409.17882v1)**
 
   *Under review at IEEE Transactions on Intelligent Transportation Systems.*
 
