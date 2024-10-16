@@ -55,7 +55,6 @@ author_profile: true
     <p>
       <strong>Reinforcement Q-Learning Enabled Energy Efficient Service Function Chain Provisioning in Multi-Domain Networks</strong><br>
       <em>Under review at Peer-to-Peer Networking and Applications.</em><br>
-      <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper4.pdf">[PDF]</a> | <a href="https://example-url.com">[URL]</a>
     </p>
   </div>
   <div style="flex: none; text-align: right; margin-right: -100px;">
