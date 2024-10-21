@@ -17,7 +17,7 @@ author_profile: true
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper1.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628">[URL]</a>
     </p>
   </div>
-  <div style="flex: none; text-align: right; margin-right: -100px;">
+  <div style="flex: none; text-align: right; margin-right: -80px;">
     <img src="https://wzyyyds.github.io/ZhiyingWang/files/image1.jpg" alt="Article Image" width="300">
   </div>
 </div>
@@ -30,7 +30,7 @@ author_profile: true
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper2.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/10571777">[URL]</a>
     </p>
   </div>
-  <div style="flex: none; text-align: right; margin-right: -100px;">
+  <div style="flex: none; text-align: right; margin-right: -80px;">
     <img src="https://wzyyyds.github.io/ZhiyingWang/files/image2.jpg" alt="Article Image" width="300">
   </div>
 </div>
@@ -45,7 +45,7 @@ author_profile: true
       <a href="https://arxiv.org/pdf/2409.17882v1">[PDF]</a> | <a href="https://arxiv.org/abs/2409.17882">[URL]</a>
     </p>
   </div>
-  <div style="flex: none; text-align: right; margin-right: -100px;">
+  <div style="flex: none; text-align: right; margin-right: -80px;">
     <img src="https://wzyyyds.github.io/ZhiyingWang/files/drone.gif" alt="Under Review Image" width="300">
   </div>
 </div>
@@ -57,7 +57,7 @@ author_profile: true
       <em>Under review at Peer-to-Peer Networking and Applications.</em><br>
     </p>
   </div>
-  <div style="flex: none; text-align: right; margin-right: -100px;">
+  <div style="flex: none; text-align: right; margin-right: -80px;">
     <img src="https://wzyyyds.github.io/ZhiyingWang/files/image4.jpg" alt="Under Review Image" width="300">
   </div>
 </div>
