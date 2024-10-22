@@ -1,13 +1,13 @@
 ---
 layout: archive
 permalink: /Rewards/
-title: "Welcome to Zhiying Wang's personal websites!"
+title: "🎓 Honors and Awards"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### 🎓 Honors and Awards
+
 
 - **🏆Graduate National Scholarship**, 2024  
 - **🥇First-Class Scholarship**, University of Electronic Science and Technology of China, 2024  
