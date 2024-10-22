@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /rewards/
+permalink: /Rewards/
 title: "Welcome to Zhiying Wang's personal websites!"
 author_profile: true
 redirect_from: 
