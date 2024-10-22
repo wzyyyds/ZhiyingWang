@@ -1,11 +1,8 @@
 ---
 layout: archive
-permalink: /Rewards/
 title: "🎓 Honors and Awards"
+permalink: /Rewards/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
