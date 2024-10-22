@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "🎓 Honors and Awards"
-permalink: /Rewards/
+permalink: /rewards/
 author_profile: true
 ---
 
