@@ -12,7 +12,7 @@ I have been involved in tennis for about **three years**, and I think tennis is 
 ![tennis](https://wzyyyds.github.io/ZhiyingWang/images/tennis1.jpg)
 ![tennis](https://wzyyyds.github.io/ZhiyingWang/images/tennis2.jpg)
 ![tennis](https://wzyyyds.github.io/ZhiyingWang/images/tennis3.jpg)
-![tennis](https://wzyyyds.github.io/ZhiyingWang/images/tennis4.JPG)
+![tennis](https://wzyyyds.github.io/ZhiyingWang/images/tennis4.jpg)
 
 
 ## 🚴‍♀ CYCLING!!!
