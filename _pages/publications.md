@@ -13,7 +13,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks</strong><br>
-      <em>Zhiying Wang, Gang Sun, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
+      <em><strong>Zhiying Wang</strong>, Gang Sun, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
       <em>Published in IEEE Internet of Things Journal, 2024.</em><br>
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper1.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628">[URL]</a>
     </p>
@@ -27,7 +27,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles</strong><br>
-      <em>Gang Sun, Zhiying Wang, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
+      <em>Gang Sun, <strong>Zhiying Wang</strong>, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
       <em>Published in IEEE Transactions on Intelligent Transportation Systems (Early Access).</em><br>
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper2.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/10571777">[URL]</a>
     </p>
