@@ -7,6 +7,7 @@ author_profile: true
 
 
 - **🏆Graduate National Scholarship**, 2024  
+- **🏆Sichuan Province Outstanding Graduate**, 2024
 - **🥇First-Class Scholarship**, University of Electronic Science and Technology of China, 2024  
 - **🥇First-Class Scholarship**, University of Electronic Science and Technology of China, 2023  
 - **🥇First-Class Scholarship**, University of Electronic Science and Technology of China, 2022  
