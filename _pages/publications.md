@@ -14,7 +14,7 @@ author_profile: true
     <p>
       <strong>Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks</strong><br>
       <em><strong>Zhiying Wang</strong>, Gang Sun, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
-      <em>Published in IEEE Internet of Things Journal, 2024.</em><br>
+      <em>Published in IEEE Internet of Things Journal (IoTJ), 2024.</em><br>
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper1.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628">[URL]</a>
     </p>
   </div>
@@ -28,7 +28,7 @@ author_profile: true
     <p>
       <strong>Profit Maximization of Independent Task Offloading in MEC-enabled 5G Internet of Vehicles</strong><br>
       <em>Gang Sun, <strong>Zhiying Wang</strong>, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
-      <em>Published in IEEE Transactions on Intelligent Transportation Systems (Early Access).</em><br>
+      <em>Published in IEEE Transactions on Intelligent Transportation Systems (TITS).</em><br>
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper2.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/10571777">[URL]</a>
     </p>
   </div>
@@ -43,7 +43,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation</strong><br>
-      <em>Under review at IEEE Transactions on Intelligent Transportation Systems.</em><br>
+      <em>Under review at IEEE Transactions on Intelligent Transportation Systems (TITS).</em><br>
       <a href="https://arxiv.org/pdf/2409.17882v1">[PDF]</a> | <a href="https://arxiv.org/abs/2409.17882">[URL]</a>
     </p>
   </div>
@@ -56,7 +56,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks</strong><br>
-      <em>Under review at IEEE Transactions on Cognitive Communications and Networking.</em><br>
+      <em>Under review at IEEE Transactions on Cognitive Communications and Networking (TCCN).</em><br>
       <a href="https://arxiv.org/pdf/2412.10700">[PDF]</a> | <a href="https://arxiv.org/abs/2412.10700">[URL]</a>
     </p>
   </div>
