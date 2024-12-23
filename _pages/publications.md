@@ -55,6 +55,19 @@ author_profile: true
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
     <p>
+      <strong>Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks</strong><br>
+      <em>Under review at IEEE Transactions on Cognitive Communications and Networking.</em><br>
+      <a href="https://arxiv.org/pdf/2412.10700">[PDF]</a> | <a href="https://arxiv.org/abs/2412.10700">[URL]</a>
+    </p>
+  </div>
+  <div style="flex: none; text-align: right; margin-right: -10px;">
+    <img src="https://wzyyyds.github.io/ZhiyingWang/files/maddpg.jpg" alt="Under Review Image" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <p>
       <strong>Reinforcement Q-Learning Enabled Energy Efficient Service Function Chain Provisioning in Multi-Domain Networks</strong><br>
       <em>Under review at Peer-to-Peer Networking and Applications.</em><br>
     </p>
