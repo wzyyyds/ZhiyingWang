@@ -41,6 +41,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Reinforcement Q-Learning Enabled Energy Efficient Service Function Chain Provisioning in Multi-Domain Networks</strong><br>
+      <em><strong>Zhiying Wang</strong>, Guanhua Huang, Gang Sun, Hongfang Yu, Jian Sun.</em><br>
       <em>Published in Peer-to-Peer Networking and Applications.</em><br>
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper4.pdf">[PDF]</a> | <a href="https://link.springer.com/article/10.1007/s12083-024-01861-1">[URL]</a>
     </p>
