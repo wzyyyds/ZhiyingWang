@@ -37,6 +37,19 @@ author_profile: true
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <p>
+      <strong>Reinforcement Q-Learning Enabled Energy Efficient Service Function Chain Provisioning in Multi-Domain Networks</strong><br>
+      <em>Published in Peer-to-Peer Networking and Applications.</em><br>
+      <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper4.pdf">[PDF]</a> | <a href="https://link.springer.com/article/10.1007/s12083-024-01861-1">[URL]</a>
+    </p>
+  </div>
+  <div style="flex: none; text-align: right; margin-right: -10px;">
+    <img src="https://wzyyyds.github.io/ZhiyingWang/files/image4.jpg" alt="Under Review Image" width="300">
+  </div>
+</div>
+
 <h2>Under Review</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -62,17 +75,5 @@ author_profile: true
   </div>
   <div style="flex: none; text-align: right; margin-right: -10px;">
     <img src="https://wzyyyds.github.io/ZhiyingWang/files/maddpg.jpg" alt="Under Review Image" width="300">
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    <p>
-      <strong>Reinforcement Q-Learning Enabled Energy Efficient Service Function Chain Provisioning in Multi-Domain Networks</strong><br>
-      <em>Under review at Peer-to-Peer Networking and Applications.</em><br>
-    </p>
-  </div>
-  <div style="flex: none; text-align: right; margin-right: -10px;">
-    <img src="https://wzyyyds.github.io/ZhiyingWang/files/image4.jpg" alt="Under Review Image" width="300">
   </div>
 </div>
