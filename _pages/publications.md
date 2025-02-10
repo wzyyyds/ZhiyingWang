@@ -15,7 +15,7 @@ author_profile: true
       <strong>Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks</strong><br>
       <em><strong>Zhiying Wang</strong>, Gang Sun, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani.</em><br>
       <em>Published in IEEE Internet of Things Journal (IoTJ), 2024.</em><br>
-      <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper1.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234628">[URL]</a>
+      <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper1.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/10234628">[URL]</a>
     </p>
   </div>
   <div style="flex: none; text-align: right; margin-right: -10px;">
