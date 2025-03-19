@@ -55,6 +55,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks</strong><br>
+      <em><strong>Zhiying Wang</strong>, Gang Sun, Yuhui Wang, Hongfang Yu, Dusit Niyato.</em><br>
       <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN) (Early Access).</em><br>
       <a href="https://arxiv.org/pdf/2412.10700">[PDF]</a> | <a href="https://arxiv.org/abs/2412.10700">[URL]</a>
     </p>
