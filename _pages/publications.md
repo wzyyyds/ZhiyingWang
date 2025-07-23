@@ -69,6 +69,7 @@ author_profile: true
   <div style="flex: 1;">
     <p>
       <strong>Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation</strong><br>
+      <em><strong>Zhiying Wang</strong>, Tianxi Wei, Gang Sun, Xinyue Liu, Hongfang Yu, Dusit Niyato.</em><br>
       <em>Published in IEEE Transactions on Intelligent Transportation Systems (TITS).</em><br>
       <a href="https://arxiv.org/pdf/2409.17882v1">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/11083737">[URL]</a>
     </p>
