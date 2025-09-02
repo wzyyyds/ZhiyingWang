@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-**My Email**: [zhiyingwang@std.uestc.edu.cn](mailto:zhiyingwang@std.uestc.edu.cn)
+**My Email**: [zwang266@ncsu.edu](mailto:zwang266@ncsu.edu)
 
 Feel free to email me **anytime**! Looking forward to hearing from you.
