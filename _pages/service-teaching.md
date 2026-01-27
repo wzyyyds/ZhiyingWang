@@ -7,12 +7,12 @@ author_profile: true
 ## Academic Service
 
 ### Reviewer
-- IEEE IEEE Internet of Things Journal (IoTJ)
+- IEEE Internet of Things Journal (IoTJ)
 - IEEE Network  
 
 
 ### Conference / Workshop Roles
-- Track Chair, *DLCV Workshop*, International Conference on Deep Learning and Vision (ICDL-V)，2026
+- Track Chair, *DLCV Workshop*, International Conference on Deep Learning and Vision (ICDL-V), 2026
 
 ## Teaching Experience
 
