@@ -13,7 +13,7 @@ author_profile: true
     <p>
       <strong>Joint Energy-Efficient Task Scheduling and Trajectory Optimization for Multi-UAV MEC Networks in Low-Altitude Economy</strong><br>
       <em><strong>Zhiying Wang</strong>, Jinghui Chen, Gang Sun, Hongfang Yu, Mohsen Guizani.</em><br>
-      <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN). </em><br>
+      <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN), 2025. </em><br>
       <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper5.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/abstract/document/11224020">[URL]</a>
     </p>
   </div>
@@ -27,7 +27,7 @@ author_profile: true
     <p>
       <strong>Multi-UAV Enabled MEC Networks: Optimizing Delay through Intelligent 3D Trajectory Planning and Resource Allocation</strong><br>
       <em><strong>Zhiying Wang</strong>, Tianxi Wei, Gang Sun, Xinyue Liu, Hongfang Yu, Dusit Niyato.</em><br>
-      <em>Published in IEEE Transactions on Intelligent Transportation Systems (TITS). </em><br>
+      <em>Published in IEEE Transactions on Intelligent Transportation Systems (TITS), 2025. </em><br>
       <a href="https://arxiv.org/pdf/2409.17882v1">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/11083737">[URL]</a>
     </p>
   </div>
@@ -41,7 +41,7 @@ author_profile: true
     <p>
       <strong>Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks</strong><br>
       <em><strong>Zhiying Wang</strong>, Gang Sun, Yuhui Wang, Hongfang Yu, Dusit Niyato.</em><br>
-      <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN). </em><br>
+      <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN), 2025. </em><br>
       <a href="https://arxiv.org/pdf/2412.10700">[PDF]</a> | <a href="https://ieeexplore.ieee.org/document/10935306">[URL]</a>
     </p>
   </div>
