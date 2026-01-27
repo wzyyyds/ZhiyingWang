@@ -13,7 +13,6 @@ author_profile: true
 
 ### Conference / Workshop Roles
 - Track Chair, *DLCV Workshop*, International Conference on Deep Learning and Vision (ICDL-V)，2026
----
 
 ## Teaching Experience
 
