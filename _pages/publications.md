@@ -8,6 +8,19 @@ author_profile: true
 <p>You can also find my articles on <a href="https://scholar.google.com.hk/citations?user=9TEDEJUAAAAJ&hl=zh-CN">my Google Scholar profile</a>.</p>
 
 <h2>Published Article</h2>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <p>
+      <strong>Joint Energy-Efficient Task Scheduling and Trajectory Optimization for Multi-UAV MEC Networks in Low-Altitude Economy</strong><br>
+      <em><strong>Zhiying Wang</strong>, Jinghui Chen, Gang Sun, Hongfang Yu, Mohsen Guizani.</em><br>
+      <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN). (Early Access)</em><br>
+      <a href="https://wzyyyds.github.io/ZhiyingWang/files/paper5.pdf">[PDF]</a> | <a href="https://ieeexplore.ieee.org/abstract/document/11224020">[URL]</a>
+    </p>
+  </div>
+  <div style="flex: none; text-align: right; margin-right: -10px;">
+    <img src="https://wzyyyds.github.io/ZhiyingWang/files/mappo.jpg" alt="Under Review Image" width="300">
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
