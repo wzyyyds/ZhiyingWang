@@ -12,6 +12,9 @@ main:
   - title: "CV"
     url: 'https://wzyyyds.github.io/ZhiyingWang/files/CV.pdf'
 
+  - title: "Service & Teaching"
+    url: /service-teaching/
+
   - title: "Contact"
     url: /contact/
 
