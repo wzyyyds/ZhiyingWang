@@ -1,4 +1,9 @@
 ---
+layout: archive
+title: "Service & Teaching"
+permalink: /service-teaching/
+author_profile: true
+---
 
 ## Academic Service
 

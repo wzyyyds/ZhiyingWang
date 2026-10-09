@@ -40,14 +40,14 @@ author_profile: true
   }
 
   .publication-card__media {
-    flex: 0 0 330px;
+    flex: 0 0 360px;
     text-align: center;
   }
 
   .publication-card__media img {
     display: block;
     width: 100%;
-    max-height: 240px;
+    max-height: 260px;
     margin: 0 auto;
     border-radius: 6px;
     object-fit: contain;
