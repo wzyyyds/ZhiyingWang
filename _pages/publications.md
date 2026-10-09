@@ -40,14 +40,14 @@ author_profile: true
   }
 
   .publication-card__media {
-    flex: 0 0 280px;
+    flex: 0 0 330px;
     text-align: center;
   }
 
   .publication-card__media img {
     display: block;
     width: 100%;
-    max-height: 180px;
+    max-height: 240px;
     margin: 0 auto;
     border-radius: 6px;
     object-fit: contain;
@@ -64,6 +64,10 @@ author_profile: true
     .publication-card__media {
       flex-basis: auto;
       width: 100%;
+    }
+
+    .publication-card__media img {
+      max-height: 320px;
     }
   }
 </style>
@@ -171,7 +175,6 @@ author_profile: true
 </div>
 
 </div>
-
 
 
 
