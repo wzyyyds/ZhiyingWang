@@ -11,6 +11,20 @@ author_profile: true
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
     <p>
+      <strong>STAR-GS: Truthful and Visibility-Aware Resource Scheduling for Ground Station as a Service</strong><br>
+      <em><strong>Zhiying Wang</strong>, Xiaojian Wang, Huayue Gu, Zhishan Guo, Ruozhou Yu.</em><br>
+      <em>Accepted by IEEE International Conference on Network Protocols (ICNP), 2026.</em><br>
+      <a href="https://arxiv.org/pdf/2608.22222">[PDF]</a> | <a href="https://arxiv.org/abs/2608.22222">[URL]</a>
+    </p>
+  </div>
+  <div style="flex: none; text-align: right; margin-right: -10px;">
+    <img src="https://wzyyyds.github.io/ZhiyingWang/files/system model.png" alt="Under Review Image" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <p>
       <strong>Joint Energy-Efficient Task Scheduling and Trajectory Optimization for Multi-UAV MEC Networks in Low-Altitude Economy</strong><br>
       <em><strong>Zhiying Wang</strong>, Jinghui Chen, Gang Sun, Hongfang Yu, Mohsen Guizani.</em><br>
       <em>Published in IEEE Transactions on Cognitive Communications and Networking (TCCN), 2025. </em><br>
@@ -91,7 +105,6 @@ author_profile: true
     <img src="https://wzyyyds.github.io/ZhiyingWang/files/image2.jpg" alt="Article Image" width="300">
   </div>
 </div>
-
 
 
 
