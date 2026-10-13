@@ -10,10 +10,11 @@ author_profile: true
 ### Reviewer
 
 - IEEE Internet of Things Journal (IoTJ)
-- IEEE Network
+- IEEE Transactions on Mobile Computing (TMC)
 - IEEE GLOBECOM Workshops
-- Euromicro Conference on Digital System Design (DSD)
 - International Wireless Communications & Mobile Computing Conference (IWCMC)
+- Euromicro Conference on Digital System Design (DSD)
+- IEEE Network
 
 ### Conference / Workshop Roles
 
