@@ -32,6 +32,6 @@ author_profile: true
 
 - *CSC 570: Computer Networks*, Spring 2026
 
-  - Organized and facilitated student Q\&A sessions to reinforce key networking concepts
+  - Organized and facilitated student Q&A sessions to reinforce key networking concepts
   - Provided individualized support on course material, assignments, and technical questions
   - Assisted with grading and provided constructive feedback on student work
