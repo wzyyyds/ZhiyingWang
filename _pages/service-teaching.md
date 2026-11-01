@@ -12,6 +12,7 @@ author_profile: true
 - IEEE Internet of Things Journal (IoTJ)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE GLOBECOM Workshops
+- IEEE Transactions on Vehicular Technology (TVT)
 - International Wireless Communications & Mobile Computing Conference (IWCMC)
 - Euromicro Conference on Digital System Design (DSD)
 - IEEE Network
